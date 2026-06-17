@@ -1,0 +1,4 @@
+ERRO CLI=00456 | Saldo insuficiente saldo=000024000 valor=000030000
+ERRO CLI=00999 | Cliente inexistente
+ERRO CLI=00123 | Tipo invalido: X
+ERRO CLI=00123 | Valor zerado

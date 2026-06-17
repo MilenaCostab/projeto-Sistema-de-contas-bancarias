@@ -1,0 +1,26 @@
+cat > ~/projeto6/zapp.yaml << 'EOF'
+name: Documento ZAPP gerado
+description: >-
+  Configuracao do projeto COBOL - Sistema Bancario
+author: Projeto6
+propertyGroups:
+  - name: search-all
+    libraries:
+      - name: syslib
+        type: local
+        locations:
+          - '**'
+      - name: maclib
+        type: local
+        locations:
+          - '**'
+      - name: proclib
+        type: local
+        locations:
+          - '**'
+      - name: copybooks
+        type: local
+        locations:
+          - copybooks
+EOF
+

@@ -1,0 +1,22 @@
+==================================================
+  SISTEMA DE CONTAS BANCARIAS - SIMULADOR
+  Data: 2026-06-17
+==================================================
+
+--- TOTAIS DE PROCESSAMENTO ---
+Clientes lidos:       000003
+Clientes processados: 000003
+Clientes com erro:    000000
+
+Transacoes lidas:     000007
+Transacoes OK:        000003
+Transacoes com erro:  000004
+
+--- SALDOS FINAIS ---
+ID     NOME                           SALDO
+--------------------------------------------------
+   123 JOAO SILVA                                R$    10300
+   456 MARIA SOUZA                               R$    24000
+   789 CARLOS PEREIRA                            R$     5000
+==================================================
+==================================================
