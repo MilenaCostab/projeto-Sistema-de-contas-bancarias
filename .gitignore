@@ -1,0 +1,5 @@
+db/CLIENTES
+db/TRANSACOES
+db/ERROS
+db/__db*
+src/BANCO01S
